@@ -38,7 +38,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MichaelArdisa/CyberSheild">CyberShield</th>
+      <th width="500px" align="center"><a href="https://github.com/MichaelArdisa/CyberShield">CyberShield</th>
       <th width="500px" align="center"><a href="https://github.com/MichaelArdisa/ParrySoulLike">Feline Parrymaster</th>
     </tr>
   </thead>
