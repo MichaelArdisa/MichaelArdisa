@@ -6,7 +6,7 @@
 
 <h1 align="center">📌 About Me</h1>
 
-<p align="center"> 
+<p align="justify"> 
 Hi, My name is Michael Ardisa, a passionate game developer and student at Bina Nusantara University. I specialize in programming with Unity and have experience in both programming and sound design for various game projects. My goal is to become a skilled game programmer in the future.
 </p>
 
@@ -62,12 +62,12 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   
   <tr width="500px">
     <td valign="text-top">
-      <p align="center">
+      <p align="justify">
         In CyberShield, players control John, a skilled computer technician who creates an AI antivirus system called "CyberWatcher" to fight off cyber threats like malware, trojans, and viruses. Players use CyberWatcher to battle increasingly powerful cyber threats and protect client devices.
       </p>
     </td>
     <td valign="text-top">
-      <p align="center">
+      <p align="justify">
        Feline Parrymaster is a third-person action-adventure game set in a mystical world. You play as a legendary sword-wielding cat who battles fierce enemies like orcs, using unique parrying skills to deflect both melee and projectile attacks with a mix of fast-paced combat. The game challenges players to master the art of parrying and become a true feline swordmaster.
       </p>
     </td>
@@ -101,12 +101,12 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   </tr>
     <tr width="500px">
       <td valign="text-top">
-        <p align="center">
+        <p align="justify">
           Phase Jumper is a fast paced side scroller where the main character has the ability to teleport through objects! Try your best to finish the levels as fast as                 possible with as little deaths as possible. There are currently 3 levels and I'm planning to add more    in the future!
         </p>
       </td>
     <td valign="text-top">
-      <p align="center">
+      <p align="justify">
        Cityscape Runner is an adrenaline-fueled parkour experience set in a futuristic urban landscape. Master the art of movement with fluid mechanics like bunny hopping and dashing in 8 directions, allowing for fast-paced and dynamic traversal. The goal is simple: complete each level as quickly as possible, chaining jumps, dashes, and leaps to shave off precious seconds.
       </p>
     </td>
