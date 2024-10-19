@@ -80,7 +80,7 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MichaelArdisa/SideScroll-GameProg">Phase Jumper</th>
+      <th width="500px" align="center"><a href="https://github.com/MichaelArdisa/PhaseJumper">Phase Jumper</th>
        <th width="500px" align="center"><a href="https://github.com/MichaelArdisa/CityscapeRunner">Cityscape Runner</th>
     </tr>
   </thead>
