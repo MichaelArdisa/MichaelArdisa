@@ -155,6 +155,6 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 <h2 align="center">📊 Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MicksS1&show_icons=true&theme=gruvbox" alt="Michael's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelArdisa&show_icons=true&theme=gruvbox" alt="Michael's GitHub stats">
 </p>
 <!-- ============================================= -->
