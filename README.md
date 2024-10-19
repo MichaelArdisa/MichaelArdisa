@@ -38,8 +38,8 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/CyberSheild">CyberShield</th>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/ParrySoulLike">Feline Parrymaster</th>
+      <th width="500px" align="center"><a href="https://github.com/MichaelArdisa/CyberSheild">CyberShield</th>
+      <th width="500px" align="center"><a href="https://github.com/MichaelArdisa/ParrySoulLike">Feline Parrymaster</th>
     </tr>
   </thead>
         
@@ -80,8 +80,8 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center"><a href="https://github.com/MicksS1/SideScroll-GameProg">Phase Jumper</th>
-       <th width="500px" align="center"><a href="https://github.com/MicksS1/CityscapeRunner">Cityscape Runner</th>
+      <th width="500px" align="center"><a href="https://github.com/MichaelArdisa/SideScroll-GameProg">Phase Jumper</th>
+       <th width="500px" align="center"><a href="https://github.com/MichaelArdisa/CityscapeRunner">Cityscape Runner</th>
     </tr>
   </thead>
   <tbody>
