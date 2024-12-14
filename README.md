@@ -131,11 +131,12 @@ Hi, My name is Michael Ardisa, a passionate game developer and student at Bina N
   <td>
 
   - Unity
+  - Github
+  - Visual Studio 2022
   - Audacity
   - Aseprite
   - Blender
   - Canva
-  - Visual Studio 2022
   - DaVinci Resolve
   
   </td>
